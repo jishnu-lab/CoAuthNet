@@ -9,5 +9,5 @@ This repository contains all the codes which were used to generate the data in t
 # Data
 Contains files which are required to perform analysis for the manuscripts. These files are parsed and processed on pubmed. It can be found in ```output/parsed_data_files```.
 # Output
-All the resutls generated in the study can be found here.
+All the resutls generated in the study can be found here. Results are arranged year-wise. ```parsed_data_files``` contain raw data parsed.
 
