@@ -1,14 +1,14 @@
-## Contents
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
-- [Codes](#Code)
+# Contents
+- [Code](#Code)
 - [Data](#Data)
 - [Output](#Output)
 
-# Codes
-This repository contains all the codes which were used to generate the data in the manuscript. It includes codes used for parsing data from PubMed and analyzing it.
-# Data
-Contains files which are required to perform analysis for the manuscripts. These files are parsed and processed on pubmed. It can be found in ```output/parsed_data_files```
-# Output
+## Code
+This repository contains all the codes which were used to generate the data in the manuscript. It includes codes used for parsing data from PubMed and analyzing it. A detailed description about the each of the codes can be found in ```code/0_coauthorship_README.txt```.
+## Data
+Contains files which are required to perform analysis for the manuscripts. These files are parsed and processed on pubmed. It can be found in ```output/parsed_data_files```.
+## Output
+All the resutls generated in the study can be found here. Results are arranged year-wise. ```parsed_data_files``` contain raw data parsed.
 
-all the data can be downloaded by running download.sh script
-```sbatch download.sh```
