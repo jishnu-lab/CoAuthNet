@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200" src="output/Figure1/Fig 1a.jpeg">
+  <img height="200" src="output/Final_Figures/Figure1/Fig 1a.jpeg">
 </p>
 
 # Contents
