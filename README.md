@@ -1,4 +1,4 @@
-![alt text][(https://github.com/swapnilkeshari/CAN/tree/main/output/Final_Figures/Figure1)]
+![alt text][(https://github.com/swapnilkeshari/CAN/tree/main/output/Final_Figures/Figure1/Fig 1a.jpg)]
 
 # Contents
 - [Code](#Code)
